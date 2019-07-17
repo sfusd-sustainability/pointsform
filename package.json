@@ -1,0 +1,24 @@
+{
+  "name": "pointsform",
+  "version": "1.0.0",
+  "description": "Our points reporting form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfusd-sustainability/pointsform.git"
+  },
+  "author": "Alexander Ruiz <ruiz.alex0302@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfusd-sustainability/pointsform/issues"
+  },
+  "homepage": "https://github.com/sfusd-sustainability/pointsform#readme",
+  "dependencies": {
+    "gatsby": "^2.13.25",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
