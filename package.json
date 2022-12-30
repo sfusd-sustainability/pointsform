@@ -21,7 +21,7 @@
   "homepage": "https://github.com/sfusd-sustainability/pointsform#readme",
   "dependencies": {
     "eded-theme": "github:sfusd-sustainability/theme",
-    "gatsby": "^2.13.25",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-styled-components": "^3.1.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
